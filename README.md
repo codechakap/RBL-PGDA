@@ -2,7 +2,7 @@
 
 No | Name | ID | GitHub username | In charge activity | Info with link | Shared max point 
 :-: | :- | :-: | :- | :- | :- | :-:
-1 | Deepali Karwa | 10223007 | [deepalikarwa](https://github.com/deepalikarwa) | Discussion on GitHub issues | [deepalikarwa/First-Contirbution/issues](https://github.com/deepalikarwa/First-Contirbution/issues) | 10
-2 | Zhirui Feng | 10223087 | [ZhiruiFeng](https://github.com/ZhiruiFeng) | Notebook finalization |  [ZhiruiFeng/ff776df1a71ac211c3e0221d099bbae9](https://gist.github.com/ZhiruiFeng/ff776df1a71ac211c3e0221d099bbae9) | 50
-3 | Tim Errington | 10223009 | [timerrington](https://github.com/timerrington) | Slide on OSF | [wdpja](https://osf.io/wdpja) | 20 
-4 | David Ondrej  | 10223101 | [davidondrej](https://github.com/davidondrej) | YouTube presenation video | [NLq2qvr867Q](https://www.youtube.com/watch?v=NLq2qvr867Q) | 20
+1 | Ahmad Royyan Fatah | 10222065 | [ARoyyanF](https://github.com/ARoyyanF) | Notebook: Machine learning, Discussion on GitHub issues | PLACEHOLDERnotebook, [Issues](https://github.com/ARoyyanF/RBL-PGDA/issues) | 25
+2 | Duke Ariqoh | 10222016 | [dukeariqoh](https://github.com/dukeariqoh) | PLACEHOLDER |  PLACEHOLDER | 25
+3 | Nashwan Chakap Nanggala | 10222036 | [codechakap](https://github.com/codechakap) | Notebook: Bandung dataset | [wdpja](https://osf.io/wdpja) | 25 
+4 | Muhammad Fathin Abdul Aziz  | 10222044 | [mfthn](https://github.com/mfthn) | PLACEHOLDER> |  PLACEHOLDER | 25
